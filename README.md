@@ -1,0 +1,2 @@
+# kuryto
+Model typu Observer
